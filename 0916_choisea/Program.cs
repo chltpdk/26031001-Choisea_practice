@@ -84,8 +84,7 @@ class Program
 
 
     //13번 문제 //
-    //int x = 10;
-    //string result = (x % 2 == 0) ? "짝수" : "홀수";
+    //string result = (0 == x%2) ? "짝수" : "홀수";
     //Console.WriteLine(result);
 
 
